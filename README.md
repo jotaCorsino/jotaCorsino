@@ -8,7 +8,7 @@
 | SQL Server | MongoDB | Entity Framework | Blazor | Azure | ASP Net | ML Net | Java |
 |-|-|-|-|-|-|-|-|
 
-In the future, I intend to formalize my training by starting a degree in systems analysis and development, as I believe it is important for a professional to be trained in their field. I currently study on my own through courses on the internet and am also helped by family and friends who work in the area.
+In the future, I intend to formalize my training by starting a degree in systems analysis and development, as I believe it is important for a professional to be trained in their field. I currently study on my own through courses on the internet and am also helped by friends who work in the area.
 
 ## About me
 I've been a Graphic Designer for 8 years, I've always worked in agencies and I thought I would work with Design for the rest of my life, because I have an appreciation for the studies in the area, but I ended up not being fulfilled and slowly I lost interest, which led me to look for new areas of study.
