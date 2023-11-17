@@ -5,7 +5,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 
 ## :scroll: goals
-| SQL Server | MongoDB | Entity Framework | Blazor | Azure | ASP Net | ML Net | Java |
+| SQL Server | Entity Framework | Blazor | Azure | ASP Net | ML Net | Java |
 |-|-|-|-|-|-|-|-|
 
 In the future, I intend to formalize my training by starting a degree in systems analysis and development, as I believe it is important for a professional to be trained in their field. I currently study on my own through courses on the internet and am also helped by friends who work in the area.
