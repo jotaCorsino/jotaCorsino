@@ -6,7 +6,7 @@
 
 ## :scroll: goals
 | SQL Server | Entity Framework | Blazor | Azure | ASP Net | ML Net | Java |
-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|
 
 In the future, I intend to formalize my training by starting a degree in systems analysis and development, as I believe it is important for a professional to be trained in their field. I currently study on my own through courses on the internet and am also helped by friends who work in the area.
 
