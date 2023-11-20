@@ -1,4 +1,4 @@
-# João Corsino <span>&#x1F1E7;&#x1F1F7;</span>
+# João Corsino [img]https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png[/ing]
 
 ##### Studying to become a back-end .Net developer. (Maybe fullstack) :alien:
 ## :book: Learning Skills
