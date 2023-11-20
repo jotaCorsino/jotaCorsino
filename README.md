@@ -1,5 +1,4 @@
-# João Corsino ![https://github.com/jotaCorsino/jotaCorsino/assets/140762228/eab2672b-aa5b-401b-9f46-a5ba6c1c4e85]()
-)
+# João Corsino ![Bandeira do Brasil](https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png =10x)
 
 ##### Studying to become a back-end .Net developer. (Maybe fullstack) :alien:
 ## :book: Learning Skills
