@@ -1,4 +1,4 @@
-# João Corsino ![](![image](https://github.com/jotaCorsino/jotaCorsino/assets/140762228/eab2672b-aa5b-401b-9f46-a5ba6c1c4e85)
+# João Corsino ![https://github.com/jotaCorsino/jotaCorsino/assets/140762228/eab2672b-aa5b-401b-9f46-a5ba6c1c4e85]()
 )
 
 ##### Studying to become a back-end .Net developer. (Maybe fullstack) :alien:
