@@ -16,12 +16,12 @@ Minha natureza curiosa sempre me levou a experimentar diversas áreas. Desde a i
 
 Hoje eu foco meus estudos em Lógica de programação com C# e estou ansioso para continuar aprendendo e me desenvolvendo nessa nova trajetória.
 ___
-Currently, I'm dedicated to refining my skills as a back-end developer, with a focus on the .Net platform. The prospect of transitioning to fullstack, exploring Blazor, is a future goal.
+Currently, I'm dedicated to enhancing my skills as a back-end developer, with a focus on the .Net platform. The possibility of becoming fullstack, exploring Blazor, is a future goal.
 
-After eight years as a Graphic Designer in agencies, I realized that my passion for studying the field didn't translate into professional satisfaction. Gradually losing interest led me to seek new opportunities.
+After eight years as a Graphic Designer in agencies, I realized that my passion for studying the field didn't translate into professional satisfaction. Gradually losing interest motivated me to seek new opportunities.
 
-My inherent curiosity has always driven me to explore various areas, making me a "multidisciplinary enthusiast." Exploring HTML, CSS, and JavaScript, I discovered my passion for programming logic.
+My curious nature has always led me to explore various areas. Since childhood, I've faced challenges in sticking to a single specialty, making me a "multidisciplinary enthusiast." While delving into HTML and CSS, I discovered JavaScript, igniting my passion for programming logic.
 
-Currently, my studies are centered on Object-Oriented Programming (OOP) with C#, and I'm eager to continue learning and developing in this new trajectory.
+Today, my studies are centered on programming logic with C#, and I'm eager to continue learning and developing in this new trajectory.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512996399108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jota-corsino/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:oi.corsino@gmail.com)
