@@ -8,13 +8,20 @@
 | SQL Server | Entity Framework | Blazor | Azure | ASP Net | ML Net | Java |
 |-|-|-|-|-|-|-|
 
-In the future, I intend to formalize my training by starting a degree in systems analysis and development, as I believe it is important for a professional to be trained in their field. I currently study on my own through courses on the internet and am also helped by friends who work in the area.
+Atualmente, me dedico ao aprimoramento como desenvolvedor back-end, com foco na plataforma .Net. A possibilidade de me tornar fullstack, explorando o Blazor, é uma meta futura.
 
-## About me
-I've been a Graphic Designer for 8 years, I've always worked in agencies and I thought I would work with Design for the rest of my life, because I have an appreciation for the studies in the area, but I ended up not being fulfilled and slowly I lost interest, which led me to look for new areas of study.
+Após oito anos como Designer Gráfico em agências, percebi que minha paixão pelos estudos na área não se traduziu em satisfação profissional. Gradualmente, perdi o interesse, me motivando a buscar novas oportunidades.
 
-I've always been a curious person, I like to try new things, since I was little I've found it difficult to fit into a single area, I ended up becoming a "multidisciplinary enthusiast", which helps me a lot in the area of Design, which ends up requiring this at a certain point, but my will changed after I started experimenting with HTML and CSS as an expansion of my skills as a Graphic Designer, because that was the gateway for me to discover the Front-end universe, but I really liked JavaScript, not necessarily the language itself but the programming logic, it was wonderful for me to practice programming logic, to create functions to solve problems. I'm still studying, this time OOP with C#, I want to keep learning.
+Minha natureza curiosa sempre me levou a experimentar diversas áreas. Desde a infância, enfrentei desafios para me fixar em uma única especialidade, tornando-me um "entusiasta multidisciplinar". Ao explorar HTML e CSS eu descobri o JavaScript, e assim eu descobri minha paixão pela lógica de programação.
 
-Today I'm studying to become a back-end programmer, more specifically on the .Net platform. Maybe I'll become a full-stack programmer by studying Blazor, but that's in the distant future.
+Hoje eu foco meus estudos em Lógica de programação com C# e estou ansioso para continuar aprendendo e me desenvolvendo nessa nova trajetória.
+---
+Currently, I'm dedicated to refining my skills as a back-end developer, with a focus on the .Net platform. The prospect of transitioning to fullstack, exploring Blazor, is a future goal.
+
+After eight years as a Graphic Designer in agencies, I realized that my passion for studying the field didn't translate into professional satisfaction. Gradually losing interest led me to seek new opportunities.
+
+My inherent curiosity has always driven me to explore various areas, making me a "multidisciplinary enthusiast." Exploring HTML, CSS, and JavaScript, I discovered my passion for programming logic.
+
+Currently, my studies are centered on Object-Oriented Programming (OOP) with C#, and I'm eager to continue learning and developing in this new trajectory.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512996399108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jota-corsino/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:oi.corsino@gmail.com)
