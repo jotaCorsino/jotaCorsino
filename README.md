@@ -1,4 +1,4 @@
-# João Corsino :brazil:
+# João Corsino <span>&#x1f1e7;&#x1f1f7;</span>
 
 ##### Studying to become a back-end .Net developer. (Maybe fullstack) :alien:
 ## :book: Learning Skills
