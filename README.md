@@ -15,7 +15,7 @@ Após oito anos como Designer Gráfico em agências, percebi que minha paixão p
 Minha natureza curiosa sempre me levou a experimentar diversas áreas. Desde a infância, enfrentei desafios para me fixar em uma única especialidade, tornando-me um "entusiasta multidisciplinar". Ao explorar HTML e CSS eu descobri o JavaScript, e assim eu descobri minha paixão pela lógica de programação.
 
 Hoje eu foco meus estudos em Lógica de programação com C# e estou ansioso para continuar aprendendo e me desenvolvendo nessa nova trajetória.
----
+___
 Currently, I'm dedicated to refining my skills as a back-end developer, with a focus on the .Net platform. The prospect of transitioning to fullstack, exploring Blazor, is a future goal.
 
 After eight years as a Graphic Designer in agencies, I realized that my passion for studying the field didn't translate into professional satisfaction. Gradually losing interest led me to seek new opportunities.
