@@ -1,4 +1,4 @@
-# João Corsino [![Bandeira do Brasil](https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png =10x)](https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png=10px)
+# João Corsino ![](https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png)
 
 ##### Studying to become a back-end .Net developer. (Maybe fullstack) :alien:
 ## :book: Learning Skills
