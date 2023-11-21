@@ -8,6 +8,7 @@
 | SQL Server | Entity Framework | Blazor | Azure | ASP Net | ML Net | Java | Microsoft Dynamics 365 | Phyton
 |-|-|-|-|-|-|-|-|-|
 
+## Sobre mim
 Atualmente, me dedico ao aprimoramento como desenvolvedor back-end, com foco na plataforma .Net. A possibilidade de me tornar fullstack, explorando o Blazor, é uma meta futura.
 
 Após oito anos como Designer Gráfico em agências, percebi que minha paixão pelos estudos na área não se traduziu em satisfação profissional. Gradualmente, perdi o interesse, me motivando a buscar novas oportunidades.
@@ -16,6 +17,7 @@ Sempre fui muito curioso, e isso me levou a experimentar diversas áreas. Desde 
 
 Hoje eu foco meus estudos em Lógica de programação com C# e estou ansioso para continuar aprendendo e me desenvolvendo nessa nova trajetória.
 ___
+## About me
 Currently, I am dedicated to improving as a back-end developer, with a focus on the .Net platform. The possibility of becoming a full-stack developer, exploring Blazor, is a future goal for me.
 
 After eight years as a Graphic Designer in agencies, I realized that my passion for studying in the field did not translate into professional satisfaction. Gradually, I lost interest, motivating me to seek new opportunities.
