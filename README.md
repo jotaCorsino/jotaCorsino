@@ -9,21 +9,10 @@
 |-|-|-|-|-|-|-|-|
 
 ## Sobre mim
-Atualmente, me dedico ao aprimoramento como desenvolvedor back-end, com foco na plataforma .Net. A possibilidade de me tornar fullstack, explorando o Blazor, é uma meta futura.
+Atualmente, estou focado em melhorar como desenvolvedor de software, principalmente na plataforma .Net. Quero aprender mais para poder criar sistemas de uma forma mais completa e com segurança, meu foco principal é no backend, as estou atraído a aprender e utilizar o Blazor no futuro.
 
-Após oito anos como Designer Gráfico em agências, percebi que minha paixão pelos estudos na área não se traduziu em satisfação profissional. Gradualmente, perdi o interesse, me motivando a buscar novas oportunidades.
+Depois de trabalhar como Designer Gráfico por mais de 6 anos, percebi que não estava feliz. Eu gostava de aprender sobre design, mas não era o suficiente para me manter motivado e trabalhando na área.
 
-Sempre fui muito curioso, e isso me levou a experimentar diversas áreas. Desde a infância, tive dificuldades em me fixar em uma única especialidade, o que acabou me tornando um "entusiasta multidisciplinar". Ao explorar HTML e CSS eu descobri o JavaScript, e assim eu descobri minha paixão pela lógica de programação.
-
-Hoje eu foco meus estudos em Lógica de programação com C# e estou ansioso para continuar aprendendo e me desenvolvendo nessa nova trajetória.
+Sempre gostei de experimentar coisas diferentes. Desde criança, tentei muitas coisas, e isso me fez interessado em várias áreas. Agora estou aprendendo a programar com C#, e estou animado para ver para onde isso me levará.
 ___
-## About me
-Currently, I am dedicated to improving as a back-end developer, with a focus on the .Net platform. The possibility of becoming a full-stack developer, exploring Blazor, is a future goal for me.
-
-After eight years as a Graphic Designer in agencies, I realized that my passion for studying in the field did not translate into professional satisfaction. Gradually, I lost interest, motivating me to seek new opportunities.
-
-I have always been very curious, which led me to explore various areas. Since childhood, I struggled to settle into a single specialty, making me a "multidisciplinary enthusiast." While exploring HTML and CSS, I discovered JavaScript, and thus found my passion for programming logic.
-
-Today, I am concentrating my studies on programming logic with C#, and I am eager to continue learning and developing in this new trajectory.
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512996399108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jota-corsino/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:oi.corsino@gmail.com)
