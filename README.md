@@ -9,7 +9,7 @@
 |-|-|-|-|-|-|-|-|-|-|
 
 ## Sobre mim
-Atualmente, estou focado em melhorar como desenvolvedor de software, principalmente na plataforma .Net. Quero aprender mais para poder criar sistemas de uma forma mais completa e com segurança, meu foco principal é no backend, e estou atraído a aprender e utilizar o Blazor no futuro.
+Atualmente, estou focado em melhorar como desenvolvedor de software, principalmente na plataforma .Net. Quero aprender mais para poder criar sistemas de uma forma mais completa e com segurança, meu foco principal é no backend, mas também estou atraído a aprender e utilizar o Blazor no futuro.
 
 Depois de trabalhar como Designer Gráfico por mais de 6 anos, percebi que não estava feliz. Eu gostava de aprender sobre design, mas não era o suficiente para me manter motivado e trabalhando na área.
 
