@@ -3,6 +3,7 @@
 ##### Estudando para me tornar um desenvolvedor .Net. :alien:
 ## :book: Skills
 HTML | CSS | JavaScript | C# | SQL Server
+|-|-|-|-|-|
 
 ## :scroll: Goals
 | MongoDB | Entity Framework | Azure | ASP Net | ML Net | Java | Phyton | Blazor
