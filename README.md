@@ -6,7 +6,7 @@ HTML | CSS | JavaScript | C# | SQL Server
 |-|-|-|-|-|
 
 ## :scroll: Goals
-| MongoDB | Entity Framework | Azure | ASP Net | ML Net | Java | Phyton | Go Lang | Blazor
+| MongoDB | Entity Framework | Azure | ASP Net | ML Net | Java | Python | Go Lang | Blazor
 |-|-|-|-|-|-|-|-|-|
 
 ## Sobre mim
