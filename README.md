@@ -6,8 +6,8 @@ HTML | CSS | JavaScript | C# | SQL Server
 |-|-|-|-|-|
 
 ## :scroll: Goals
-| MongoDB | Entity Framework | Azure | ASP Net | ML Net | Java | Phyton | Blazor
-|-|-|-|-|-|-|-|-|
+| MongoDB | Entity Framework | Azure | ASP Net | ML Net | Java | Phyton | Go Lang | Blazor
+|-|-|-|-|-|-|-|-|-|
 
 ## Sobre mim
 Olá! Atualmente, estou em uma jornada para me aprimorar como desenvolvedor de software, especialmente no Back-end. 
