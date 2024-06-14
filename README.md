@@ -1,6 +1,6 @@
 # João Corsino <img src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png" alt="Bandeira do Brasil" height="20"/>
 
-##### Estudando para me tornar um desenvolvedor .Net. :alien:
+##### Estudando para me tornar um desenvolvedor Back-end :alien:
 ## :book: Skills
 HTML | CSS | JavaScript | C# | SQL Server
 |-|-|-|-|-|
