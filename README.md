@@ -2,8 +2,8 @@
 
 ##### Estudando para me tornar um desenvolvedor Back-end :alien:
 ## :book: Skills
-HTML | CSS | JavaScript | C# | SQL Server
-|-|-|-|-|-|
+HTML | CSS | JavaScript | C# | C | SQL Server
+|-|-|-|-|-|-|
 
 ## :scroll: Goals
 | MongoDB | Entity Framework | Azure | ASP Net | ML Net | Java | Python | Go Lang | Blazor
