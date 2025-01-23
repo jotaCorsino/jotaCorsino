@@ -2,12 +2,12 @@
 
 ##### Estudando para me tornar um desenvolvedor Back-end.
 ## :book: Skills
-HTML | CSS | JavaScript | C# | C/C++ | SQL | .Net MAUI
-|-|-|-|-|-|-|-|
+HTML | CSS | JavaScript | C# | C/C++ | SQL | .Net MAUI | Java
+|-|-|-|-|-|-|-|-|
 
 ## :scroll: Goals
-| MongoDB | Entity Framework | Azure | ASP Net | ML Net | Java | Python | Go Lang | Blazor
-|-|-|-|-|-|-|-|-|-|
+| MongoDB | Entity Framework | Azure | ASP Net | ML Net | Python | Go Lang | Blazor
+|-|-|-|-|-|-|-|-|
 
 ## Sobre mim
 Olá! Estou em uma jornada para me aprimorar como desenvolvedor de software, com foco em Back-end.
